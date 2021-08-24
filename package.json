@@ -1,7 +1,7 @@
 {
-  "name": "giri-sanggatika-openmusic-api-project1",
+  "name": "openmusic-api-project-v1",
   "version": "1.0.0",
-  "description": "Project Dicoding Giri Sanggatika OpenMusic API Versi 1",
+  "description": "Projecy Self Reminder Submission Openmusic API V1",
   "main": "index.js",
   "scripts": {
     "start-prod": "NODE_ENV=production node ./src/server.js",
